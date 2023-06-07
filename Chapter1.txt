@@ -1,1 +1,7 @@
 Hi it was the day of happiness, the day of joy
+
+- to create a branch use git branch "name of branch"
+- use git branch to see which all branches are available
+- use git checkout branch name . It will create a copy of master branch files. Any change in it is not reflected in the original 
+unless mergerd
+- this statement is added in the edited branch
